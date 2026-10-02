@@ -1,0 +1,11 @@
+{
+  "appId": "app.base44.stormpulse",
+  "appName": "StormPulse",
+  "webDir": "www",
+  "server": {
+    "url": "https://neon-storm-pulse-live.base44.app",
+    "cleartext": false,
+    "allowNavigation": ["*.base44.app", "base44.app"]
+  },
+  "backgroundColor": "#000066"
+}
